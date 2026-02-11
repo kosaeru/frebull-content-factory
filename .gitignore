@@ -3,3 +3,7 @@
 drafts/
 logs/
 __pycache__/
+
+# env files
+.env
+.env.*
